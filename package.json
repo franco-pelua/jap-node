@@ -1,0 +1,23 @@
+{
+  "name": "jap-node",
+  "version": "1.0.0",
+  "description": "entrega 8 individiual",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franco-pelua/jap-node.git"
+  },
+  "author": "Franco Pelua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/franco-pelua/jap-node/issues"
+  },
+  "homepage": "https://github.com/franco-pelua/jap-node#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
